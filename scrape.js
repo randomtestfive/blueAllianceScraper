@@ -296,7 +296,5 @@ function timeScaleNeutralInMatch(match) {
 
 //allTeamsAverages2018();
 //timeseriesStats();
-console.log(api_key);
-console.log(teamsWithMatchesInYear("2019"));
 
 //console.log(timeScaleNeutralInMatch("2018gal_qm92"));
